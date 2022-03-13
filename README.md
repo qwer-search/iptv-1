@@ -1,7 +1,6 @@
  **IPTV 频道 电视 直播 源 定期检测维护有效性** 
 
-
-https://github.com/qwer-search/iptv-1/blob/main/iptv.m3u
+https://raw.githubusercontent.com/qwer-search/iptv-1/main/iptv.m3u
 
 
 
